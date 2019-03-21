@@ -1,5 +1,5 @@
 # dp_seminar
-Repository for the course Seminar: Privacy Preserving Machine Learning, HYY 2019  
+Repository for the course Seminar: Privacy Preserving Machine Learning, HY 2019  
 
 - pca_linear_regression.ipynb and pca_logistic_regression.ipynb run simulations of the Gaussian Mechanism and the Wishart Mechanism  
 - both these mechanisms are used to produce a noisy empirical covariance matrix of a data set  
